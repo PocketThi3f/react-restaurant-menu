@@ -9,5 +9,5 @@ Technologies used:
 * Firebase
 
 
-Uploaded onto: 
+Uploaded using: 
 https://zeit.co/now
