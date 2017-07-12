@@ -7,3 +7,7 @@ Technologies used:
 * CSS
 * React.js
 * Firebase
+
+
+Uploaded onto: 
+https://zeit.co/now
